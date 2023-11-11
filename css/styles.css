@@ -88,8 +88,10 @@ nav a {
 /*------------------------------------------------------------------*/
 /*button styles */
 
-.dsc-btn-container-220 {
+.dsc-btn-page-container {
     width: 220px;
+    display: grid;
+    gap: 20px;
 }
 
 .dsc-btn {
