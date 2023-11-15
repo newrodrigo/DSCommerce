@@ -13,7 +13,6 @@
 .dsc-catalog-card-top img {
   width: 150px;
   height: 150px;
-
 }
 
 .dsc-catalog-card-top {
@@ -28,11 +27,11 @@
 }
 
 .dsc-catalog-card-bottom h3 {
-  color: var( --dsc-color-font-secondary);
+  color: var(--dsc-color-font-secondary);
   font-size: 20px;
 }
 
 .dsc-catalog-card-bottom h4 {
-  color: var( --dsc-color-font-primary);
+  color: var(--dsc-color-font-primary);
   font-size: 12px;
 }
